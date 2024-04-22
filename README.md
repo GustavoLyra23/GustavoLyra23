@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=1BD2F7&random=false&width=435&lines=Ola!+Me+chamo+Gustavo+Lyra" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=1BD2F7&random=false&width=435&lines=Atualmente+estou+aprendendo+java" alt="Typing SVG" /></a>
+## "Oi , estou começando a aprender Java. Estou animado para mergulhar nesse mundo da programação e aprender o máximo possível. 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Java-logo.png">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
