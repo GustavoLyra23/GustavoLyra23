@@ -2,6 +2,8 @@
 ## I'm starting to learn Java. I'm excited to dive into this world of programming and learn as much as possible.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Java-logo.png">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Java-logo.png">
+
 </div>
 </div>
   
