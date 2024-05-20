@@ -1,5 +1,5 @@
 ## Hello! My name is Gustavo Lyra
-## I'm starting to learn Java. I'm excited to dive into this world of programming and learn as much as possible.
+## Java Lover. I'm excited to dive into this world of programming and learn as much as possible.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="45" width="45" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
 
