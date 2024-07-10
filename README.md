@@ -8,7 +8,4 @@
   
   ##
 <div> 
-  <a href="https://www.linkedin.com/in/gustavo-lyra-1a7309232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
- <a href="https://www.instagram.com/gustavolyra23/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://leetcode.com/u/GustavoLyra/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a> 
 </div>
